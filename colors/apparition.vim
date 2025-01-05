@@ -82,9 +82,9 @@ hi! link         Structure      Type
 hi! link         Typedef        Type
 
 hi  Special      guifg=#719611  guibg=none    gui=none
+hi  Delimiter    guifg=none     guibg=none    gui=none
 hi! link         SpecialChar    Special
 hi! link         Tag            Special
-hi! link         Delimiter      Special
 hi! link         SpecialComment Special
 hi! link         Debug          Special
 
