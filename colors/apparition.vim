@@ -32,7 +32,7 @@ hi  Directory    guifg=#1e90ff  guibg=none    gui=none
 hi  NonText      guifg=#404050  guibg=none    gui=none
 hi  SpecialKey   guifg=#505060  guibg=none    gui=none
 
-hi  SpellBad     guifg=none     guibg=none    gui=undercurl
+hi  SpellBad     guifg=none     guibg=none    gui=undercurl guisp=#ff6a6a
 hi! link         SpellCap       SpellBad
 hi! link         SpellLocal     SpellBad
 hi! link         SpellRare      SpellBad
